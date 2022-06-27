@@ -1,0 +1,3 @@
+The number of words read is 78
+The longest word has a length of 12
+The longest word is elaborations

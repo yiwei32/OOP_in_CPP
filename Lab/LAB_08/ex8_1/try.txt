@@ -1,0 +1,4 @@
+Item Ring {
+    Damage:5
+    Armor:5
+}
